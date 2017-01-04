@@ -1,6 +1,6 @@
 # Databricks Machine Learning (Archived) courses
 
-Solutions to the exercises (Lab notebooks) for courses `Introduction to Big Data` & `Scalable Machine Learning`.
+Solutions to the exercises (Lab notebooks) for courses [Introduction to Big Data](https://docs.databricks.com/spark/1.6/training/introduction-to-big-data-cs100x-2015/index.html) & [Scalable Machine Learning](https://docs.databricks.com/spark/1.6/training/scalable-machine-learning-cs190x-2015/index.html).
 
 ### Note
 
